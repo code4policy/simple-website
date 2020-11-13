@@ -1,24 +1,39 @@
-/* background color */
+/* Set background */
+html {
+  background-color: maroon;
+}
+
+/* styles for the body of the site */
 body {
-	background-color: white;
+  width: 60%;
+  background-color: beige;
+  border: 5px solid black;
+  padding: 0 20px 20px 20px;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* color of headline */
+/* styles for headline */
 h1 {
-	color: black;
+  color: black;
 }
 
-/* color of subheadline */
+/* styles for subheadline */
 h2 {
-	color: black;
+  color: black;
 }
 
-/* color of paragraphs */
+/* styles for paragraph */
 p {
-	color: black;
+    color: black;
 }
 
-/* color of bullet point list*/
-ul {
-	color: black;
+/* styles for image */
+img {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+
 }
