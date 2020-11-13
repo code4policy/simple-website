@@ -1,15 +1,24 @@
+/* background color */
 body {
 	background-color: white;
 }
 
+/* color of headline */
 h1 {
 	color: black;
 }
 
+/* color of subheadline */
 h2 {
 	color: black;
 }
 
+/* color of paragraphs */
 p {
+	color: black;
+}
+
+/* color of bullet point list*/
+ul {
 	color: black;
 }
