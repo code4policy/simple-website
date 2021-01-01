@@ -8,8 +8,6 @@ This is a demo website.
 
 ## Part 1: Hosting Your Website
 
-### Github Pages
-
 GitHub also doubles as a static web server! If you enable a feature called "[GitHub Pages](https://pages.github.com/)", in addition to storing your files, GitHub will run a static web server that can serve those pages on the web.
 
 1. Go to this github repo's settings and under Github Pages choose "main" branch as the source. (screenshot shows "master" branch which is the old GitHub terminology for the "main" branch)
