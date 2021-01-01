@@ -50,15 +50,15 @@ GitHub also doubles as a static web server! If you enable a feature called "[Git
 	<!DOCTYPE html>
 	<html>
 
-	<head>
-	  <title>Goodbye!</title>
-	</head>
+	  <head>
+	    <title>Goodbye!</title>
+	  </head>
 
-	<body>
-	  <h1>Goodbye World</h1>
-	  <h2>Adios</h2>
-	  <p> What a short website </p>
-	</body>
+	  <body>
+	    <h1>Goodbye World</h1>
+	    <h2>Adios</h2>
+	    <p> What a short website </p>
+	  </body>
 
 	</html>
 	```
