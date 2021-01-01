@@ -22,10 +22,10 @@ GitHub also doubles as a static web server! If you enable a feature called "[Git
 
 1. Open your command line terminal and navigate to your Development folder
   
-  ```
-  cd ~/Development/
-  ```
- 
+	```
+	cd ~/Development/
+	```
+
 2. Clone the repository using the SSH link given to you in GitHub, it should look something like this:
 
 	```
@@ -34,9 +34,9 @@ GitHub also doubles as a static web server! If you enable a feature called "[Git
 
 3. In the command line, navigate into that folder and then open it in your text editor. Make sure to replace the <folder-name> in the command below with the name of the folder you just cloned. The folder name should be whatever this repository is named (probably something like `simple-website-dmil`)
 
-  ```
-  cd <folder-name>
-  ```
+	```
+	cd <folder-name>
+	```
 
 4. Once you have the files on your computer, find them in and double click on `index.html` to view it in a web browser (you can refresh the page to view it again after you add new code). Congrats! You now have a copy of the website on your own computer. You'll notice the URL of your browser isn't on the web, now it is pointing to a file on your computer.
 
@@ -46,24 +46,25 @@ GitHub also doubles as a static web server! If you enable a feature called "[Git
 	
 2. Put the following code in `goodbye.html`. This is what a bare-bones HTML page looks like.
 
-    ```html
-    <!DOCTYPE html>
-    <html>
+	```html
+	<!DOCTYPE html>
+	<html>
 
-    <head>
-      <title>Goodbye!</title>
-    </head>
+	<head>
+		<title>Goodbye!</title>
+	</head>
 
-    <body>
-      <h1>Goodbye World</h1>
-      <h2>Adios</h2>
-      <p> What a short website </p>
-    </body>
+	<body>
+		<h1>Goodbye World</h1>
+		<h2>Adios</h2>
+		<p> What a short website </p>
+	</body>
 
-    </html>
-    ```
+	</html>
+	```
 
 3. Commit this page
+
 	```
 	git status
 	git add goodbye.html
