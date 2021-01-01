@@ -136,10 +136,16 @@ Use these commands frequently to build your mental model of what is going on in 
 3. Push to GitHub
 4. Repeat 5 times
 
-You can make any five changes you wish. If you'd like to keep going and make more, have fun! Make sure to follow the linear Git workflow we used above. The goal here is to:
-    1. build a mental model of the structure of the local Git repository (the one on your computer). What is in the staging area? What is in the commit log? Building and maintaining a mental model of what is going on is a key skill in working with code.
+You can make any five changes you wish. At first, I'd reccomend simple changes, like updating text. Once you get the hang of it, you're welcome to update the styles, or edit the HTML. If you'd like to make more than 5 edits, feel free to keep going and have fun! I'd encourage you to keep going until you feel you've got the hang of how Git works.
+
+More broadly, our goals with this assignment are to:
+
+    1. build a mental model of the structure of the local Git repository (the one on your computer). What is in the staging area? What is in the commit log? Building and maintaining a mental model of what is going on is a key skill in working with code, even beyond GitHub.
     2. build some muscle memory around using Git from the command line, as we will be using these tools every day for the rest of the class
 
-Finally, if you'd like to pursue a third learning objective here, you may. That would be to explore a new codebase and understand how it works. So if you'd prefer to stick to the basics and get the Git workflow down, I might do more simple changes (just updates to the text). If you'd like to take a crack at modifying background color, updating what happens when you click the logo, etc... you may do that as well!
+#### Bonus
+Finally, if you'd like to pursue a third learning objective here, you may. That objective is to explore a new and unfamiliar codebase and understand how it works. See if you can figure out how to give every page in your website a consistent look and feel. To do this, you'll need to figure out how to link the same stylesheet to both `index.html` and `goodbye.html` as well as any other page you create. 
+
+If you'd like to take a crack at playing around with the JavaScript...you may do that as well! Good luck!
     
    
