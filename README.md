@@ -24,7 +24,7 @@ GitHub also doubles as a static web server! If you enable a feature called "[Git
 
 2. Go to the specified URL (it will likely be username.github.io/simple-website, where "username" is your GitHub username) and you should see the HTML page we created. You might have to wait a minute or two before it shows up.
 
-## Part 2: Developing Locally (on your computer)
+## Part 3: Developing Locally (on your computer)
 
 ### Cloning The Repository (making a local copy on your computer)
 
@@ -129,7 +129,7 @@ Remmber,
 
 Use these commands frequently to build your mental model of what is going on in your Git repository.
 
-### The Assignment
+### Part 4: The Assignment
 
 1. Make a change
 2. Commit that change
