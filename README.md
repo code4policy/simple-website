@@ -140,8 +140,8 @@ You can make any five changes you wish. At first, I'd reccomend simple changes, 
 
 More broadly, our goals with this assignment are to:
 
-    1. build a mental model of the structure of the local Git repository (the one on your computer). What is in the staging area? What is in the commit log? Building and maintaining a mental model of what is going on is a key skill in working with code, even beyond GitHub.
-    2. build some muscle memory around using Git from the command line, as we will be using these tools every day for the rest of the class
+   1. build a mental model of the structure of the local Git repository (the one on your computer). What is in the staging area? What is in the commit log? Building and maintaining a mental model of what is going on is a key skill in working with code, even beyond GitHub.
+   2. build some muscle memory around using Git from the command line, as we will be using these tools every day for the rest of the class
 
 #### Bonus
 Finally, if you'd like to pursue a third learning objective here, you may. That objective is to explore a new and unfamiliar codebase and understand how it works. See if you can figure out how to give every page in your website a consistent look and feel. To do this, you'll need to figure out how to link the same stylesheet to both `index.html` and `goodbye.html` as well as any other page you create. 
