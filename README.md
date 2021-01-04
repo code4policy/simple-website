@@ -129,7 +129,7 @@ Remmber,
 
 Use these commands frequently to build your mental model of what is going on in your Git repository.
 
-### Part 4: The Assignment
+### Part 4: Tasks
 
 1. Make a change
 2. Commit that change
