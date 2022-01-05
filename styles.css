@@ -1,12 +1,12 @@
 /* Set background */
 html {
-  background-color: maroon;
+  background-color: pink;
 }
 
 /* styles for the body of the site */
 body {
   width: 60%;
-  background-color: teal;
+  background-color: pink;
   border: 5px solid black;
   padding: 0 20px 20px 20px;
   margin-top: 25px;
