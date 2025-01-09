@@ -46,7 +46,7 @@ GitHub also doubles as a static web server! If you enable a feature called "[Git
 
 4. Once you have the files on your computer, find them in and double click on `index.html` to view it in a web browser (you can refresh the page to view it again after you add new code). Congrats! You now have a copy of the website on your own computer. You'll notice the URL of your browser isn't on the web, now it is pointing to a file on your computer.
 
-   	```
+   	```bash
     	python3 -m http.server
     	```
     	
