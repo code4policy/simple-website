@@ -8,3 +8,8 @@ var logo = document.querySelector('img');
 
 // Assign the function to the onclick event on that element
 logo.onclick = sayOuch;
+
+console.log('Website enhancement script loaded!');
+document.getElementById('myButton').addEventListener('click', function() {
+	alert('Button clicked!');
+});
