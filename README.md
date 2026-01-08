@@ -115,7 +115,7 @@ We're going to practice that workflow one more time. Lets add navigation.
   
 	If this is the first time you're pushing, you may have to set an upstream branch. If you read the output of `git push` it will tell you what to do. Essentially this is just synchronizing this branch locally with the corresponding branch in the remote repository.
 
-2. Once you've pushed the website to the main branch on GitHub, you should be able to view it online! Your URL will likely be something like: `username.github.io/simple-website`
+2. Once you've pushed the website to the main branch on GitHub, you should be able to view it online! Your URL will likely be something like: `code4policy.com/simple-website-[your-username]`
 
 ### Final notes
 
