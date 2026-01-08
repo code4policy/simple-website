@@ -16,7 +16,7 @@ GitHub also doubles as a static web server! If you enable a feature called "[Git
 
 2. Go to the specified URL (it will likely be username.github.io/simple-website, where "username" is your GitHub username) and you should see the HTML page we created. You might have to wait a minute or two before it shows up.
 
-## Part 3: Developing Locally (on your computer)
+## Part 2: Developing Locally (on your computer)
 
 ### Cloning The Repository (making a local copy on your computer)
 
@@ -35,13 +35,13 @@ GitHub also doubles as a static web server! If you enable a feature called "[Git
 3. In the command line, navigate into that folder and then open it in your text editor. 
 
 	```
-	cd ~/Development/simple-website
+	cd ~/Development/simple-website-[your-github_username]
 	```
 
-4. Now open the code in Sublime Text (or another text editor of your choice). Note, if the `subl .` command in the instructions below doesn't work for you, you can just open Sublime Text yourself and open this folder from within Sublime Text by clicking the "File" menu, then "Open".
+4. Now open the code in Sublime Text (or another text editor of your choice).
 
 	```
-	subl ~/Development/simple-website
+	subl .
 	```
 
 4. Once you have the files on your computer, find them in and double click on `index.html` to view it in a web browser (you can refresh the page to view it again after you add new code). Congrats! You now have a copy of the website on your own computer. You'll notice the URL of your browser isn't on the web, now it is pointing to a file on your computer.
