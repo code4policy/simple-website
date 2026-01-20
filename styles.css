@@ -1,12 +1,13 @@
 /* Set background */
 html {
-  background-color: maroon;
+  background-color: beige;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 /* styles for the body of the site */
 body {
   width: 60%;
-  background-color: orange;
+  background-color: lightblue;
   border: 5px solid black;
   padding: 0 20px 20px 20px;
   margin-top: 25px;
@@ -33,7 +34,20 @@ p {
 img {
   margin-left: auto;
   margin-right: auto;
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
 
+}
+
+#myButton {
+  background-color: rgb(14, 92, 160); /* Green */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
